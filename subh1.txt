@@ -1,1 +1,2 @@
 this is 1st line in Git
+Welcome to Git!
